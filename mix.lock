@@ -1,0 +1,2 @@
+%{"pollution": {:hex, :pollution, "0.9.0", "2d172aeedc444f0fc06a69b03bb6a560fb141bcafcc0c8189c29b10ee6e50893", [:mix], []},
+  "quixir": {:hex, :quixir, "0.9.0", "f85903d22f9df8757883b86c30e52e222faf19e123f8fcf3046c37566703fac4", [:mix], [{:pollution, "~> 0.9", [hex: :pollution, optional: false]}]}}
